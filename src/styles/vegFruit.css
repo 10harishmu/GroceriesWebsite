@@ -1,0 +1,22 @@
+.bkbkg{
+    margin-left: 284px;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-size: cover;
+    height: 100vh;
+    background-color: rgb(249, 242, 242);
+    /* background-image: url("https://previews.123rf.com/images/anaumenko/anaumenko1804/anaumenko180400050/99906087-grocery-shopping-concept-balanced-diet-concept-fresh-foods-with-shopping-bag-on-white-background-top.jpg"); */
+}
+
+.bkcard{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    margin-top:40px;
+    padding-left: 10px;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    
+}

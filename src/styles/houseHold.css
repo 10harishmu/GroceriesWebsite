@@ -1,0 +1,50 @@
+.wert{
+    margin-left: 284px;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-image: url("");
+    background-color: rgb(223, 221, 221);
+    height: 100vh;
+}
+
+.zxcv{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    margin-top:40px;
+    padding-left: 10px;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    
+}
+.qazx{
+    text-align: center;
+    margin-left: 380px;
+}
+.adsf label{ 
+    text-align: center;
+    margin-left: 380px;
+}
+.adsf input{
+    margin-left: 380px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+.usbkg{
+    padding-top: 170px;
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2Farchive%2F2d4ea32ed14a1f75cf1b454748dfa99cd4a1fa62")
+}
+.log{
+    background-color: rgb(188, 179, 179);
+    width: 450px;
+    height: 400px;
+    padding-left: 40px;
+    margin-left: 550px;
+    border-radius: 40px;
+}
+.log h4{
+    font-size: xx-large;
+    font-weight:bolder;
+    font-style: oblique;
+    padding-top: 50px;
+}
+.log label{
+    font-size:x-large;
+    margin-top: 20px;
+    margin-bottom:0px;
+    font-weight:bolder;
+    margin-left: 40px;
+
+}
+.log input{
+    margin-left: 40px;
+    height:40px;
+    width: 250px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+.bttns{
+    margin:20px;
+    margin-left: 73px;
+   
+}
+.bttns input{
+    font-size: large;
+    font-weight:bold;
+}
+.lbtn{
+    font-size: large;
+    font-weight:bold;
+    border-radius: 5px;
+}
+.hbtn{
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight:bold;
+
+}

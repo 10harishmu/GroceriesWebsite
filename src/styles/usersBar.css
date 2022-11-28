@@ -1,0 +1,46 @@
+.usrcat{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 100vh;
+    position: fixed;
+    /* height: 770px; */
+    background-color: rgb(217, 229, 229);
+    margin:0px
+
+}
+.usrbar{
+    margin: 20px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+}
+.usrbar h1{
+    margin-top:20px;
+    font-size:x-large;
+    font-weight: bold;
+    font-style: oblique;
+}
+.usritem{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+.usritem a{
+    text-decoration: none;
+    margin-bottom:10px;
+    margin-top: 20px;
+    font-size:larger;
+    font-weight: bold;
+    font-style:italic;
+}
+.usrbar img{
+    width: 75px;
+    height: 85px;
+}
+.btnn1{
+
+    border-radius: 5px;
+    margin-right: 20px;
+}

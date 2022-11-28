@@ -1,0 +1,48 @@
+.categ{
+    display: flex;
+    flex-direction: column;
+    background-color:lightgray;
+    width: 280px;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.sidebar{
+    margin-top: 10px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom:10px;
+    
+}
+.sidebar h1{
+    margin-top:0px;
+    margin-left:10px;
+    font-size: x-large;
+    font-style:oblique;
+    font-weight: bolder;
+}
+.catiem{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+
+}
+.catiem a{
+    text-decoration: none;
+    margin-bottom:20px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-style:italic;
+    font-size:larger;
+}
+.sidebar img{
+    height:65px;   
+    width: 55px; 
+}
+.btn1{
+
+    border-radius: 5px;
+    margin-right: 20px;
+}

@@ -1,0 +1,57 @@
+.adbkg{
+    padding-top: 170px;
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://c0.wallpaperflare.com/preview/462/1010/452/supermarket-shelf-blur-yogurt.jpg")
+}
+.logg{
+    background-color: rgb(203, 197, 197);
+    width: 450px;
+    height: 400px;
+    padding-left: 40px;
+    margin-left: 550px;
+    border-radius: 40px;
+}
+.logg h4{
+    font-size: xx-large;
+    font-weight:bolder;
+    font-style: oblique;
+    padding-top: 50px;
+}
+.logg label{
+    font-size:x-large;
+    margin-top: 20px;
+    margin-bottom:0px;
+    font-weight:bolder;
+    margin-left: 40px;
+
+}
+.logg input{
+    margin-left: 40px;
+    height:40px;
+    width: 250px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+.btns{
+    margin:20px;
+    margin-left: 73px;
+   
+}
+.btns input{
+    font-size: large;
+    font-weight:bold;
+}
+.bttn{
+    font-size: large;
+    font-weight:bold;
+    border-radius: 5px;
+}
+.btnn{
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight:bold;
+
+}
